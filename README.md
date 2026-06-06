@@ -41,10 +41,8 @@ ollama run phi3
 Run the respective scripts from your workspace directory to test the pipelines:
 
 
-# To test NLP text control
 python text_controller.py
 
-# To test local generative streaming
 python local_llm_chat.py
 
 
